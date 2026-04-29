@@ -8,7 +8,7 @@
 
 **"Um ecossistema de automação complexo criado para conectar bancos de dados, sistemas de pagamento e CRMs sem intervenção humana."**   *Status: 🚀 Serviço B2B Ativo & Homologado.*
 
-![Card Automacred](automacred_logo_card_site_cristalwolf_800x450_prop16-9.png)
+![Card Automacred](automacred_card_site_cristalwolf_800x450_prop16-9.png)
 
 ------------------------------------------------------------------------
 
